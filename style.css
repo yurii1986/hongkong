@@ -8,3 +8,10 @@ footer {
 	background: #d1c4e9;
 	padding:20px 0 20px 0;
 }
+
+.row-content {
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
